@@ -1,0 +1,25 @@
+{
+  "name": "js-ai-bot",
+  "version": "1.0.0",
+  "description": "An AI-powered JS coding tutor using a CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfishal/JS-AI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superfishal/JS-AI-Bot/issues"
+  },
+  "homepage": "https://github.com/superfishal/JS-AI-Bot#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "langchain": "^0.0.110"
+  }
+}
